@@ -18,6 +18,11 @@ This website serves as a **central hub** for my data analysis and business intel
 - 📂 **Portfolio Projects**: [Coming Soon]
 - 📖 **Diary Entries**: [View My Learning Journal](./blog/diary/)
 
+## ✍️ My Data & Analytics Diary 📖
+Follow my journey as I explore business intelligence, SQL, Power BI, and Tableau.
+
+📌 [Read My Diary](https://nicolebia.github.io/blog/diary/)
+
 ---
 
  *Stay tuned as I continue to update this space with more insights, analysis, and data-driven explorations!* 🚀
