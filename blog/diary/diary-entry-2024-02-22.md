@@ -1,7 +1,7 @@
 ---
-title: "Reflections on the Cannabis Sales Analysis Project"
-date: 2024-02-22
-author: Nicole Reaves
+Title: "Reflections on the Cannabis Sales Analysis Project"
+Date: 2024-02-22
+Author: Nicole Reaves
 ---
 
 # **Lessons from the Cannabis Sales Analysis Project** 📊
