@@ -16,7 +16,13 @@ Today, I made the difficult decision to step away from my cannabis sales dataset
 
 What I Learned Today:
 
-1️⃣ Not all datasets are ready for analysis—sometimes, no amount of enrichment will fix fundamental structural issues.2️⃣ Dataset transparency is crucial—without a clear methodology from the data provider, analysts are left to guess at how numbers were aggregated.3️⃣ Data cleaning is only part of the challenge—some issues only become visible once you start visualizing and interrogating the data.4️⃣ Knowing when to pivot is a skill—the ability to recognize when a dataset won’t yield reliable insights is just as important as knowing how to analyze it.
+1️⃣ Not all datasets are ready for analysis—sometimes, no amount of enrichment will fix fundamental structural issues.
+
+2️⃣ Dataset transparency is crucial—without a clear methodology from the data provider, analysts are left to guess at how numbers were aggregated.
+
+3️⃣ Data cleaning is only part of the challenge—some issues only become visible once you start visualizing and interrogating the data.
+
+4️⃣ Knowing when to pivot is a skill—the ability to recognize when a dataset won’t yield reliable insights is just as important as knowing how to analyze it.
 
 Rather than feeling discouraged, I’m taking this as an opportunity to refine my approach to evaluating datasets in the future. Every challenge I faced—whether it was dealing with rolling sales figures, creating logical product classifications, or troubleshooting missing values—was a hands-on lesson in real-world data analysis.
 
