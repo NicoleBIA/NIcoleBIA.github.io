@@ -7,7 +7,6 @@ author: Nicole Reaves
 # **Lessons from the Cannabis Sales Analysis Project 📊 **
 
 ## **Understanding Data Enrichment & Enhancement**
-*(Introductory paragraph from your Canvas entry)*
 
 ### **What I Tried**
 - 🔹 Added a **Market Table** for better segmentation.
