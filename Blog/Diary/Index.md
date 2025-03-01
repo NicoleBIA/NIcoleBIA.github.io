@@ -11,7 +11,7 @@ From SQL and Power BI to Tableau and Business Intelligence storytelling – this
 
 ## 📌 Entries  
 
-- [📌 Entry 1: Breaking Points & Breakthroughs](breaking_points_and_breakthroughs)  
+📌 **[Entry 1: Breaking Points & Breakthroughs](https://nicolebia.github.io/blog/diary/breaking-points-and-breakthroughs/)**
   *A personal reflection on overcoming challenges in data analytics.*  
 
 (More to come as I continue this journey! 🚀)  
