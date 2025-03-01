@@ -1,3 +1,4 @@
 title: "Nicole's Data & Analytics Blog"
 description: "Exploring Business Intelligence, SQL, Tableau, and Power BI."
 theme: jekyll-theme-minimal
+permalink: pretty
