@@ -1,8 +1,11 @@
 # 📌 Diary Index  
 
-Welcome to my **Data & BI Diary** – documenting the highs, lows, and learning moments of my journey.  
+# 📖 Diary of an Emerging Data & Business Intelligence Analyst  
 
-## **🔹 Latest Entries**  
-📌 **[Breaking Points & Breakthroughs](breaking_points_and_breakthroughs.md)** – A reflection on persistence in data analytics.  
+Welcome to my Data & BI Diary – documenting the highs, lows, and learning moments of my journey.  
 
-_(More to come soon!)_  
+## 🔹 Latest Entries  
+
+📌 **[Breaking Points & Breakthroughs](./breaking_points_and_breakthroughs.md)** – A reflection on persistence in data analytics.  
+
+(More to come soon! 🚀)  
