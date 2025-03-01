@@ -1,11 +1,18 @@
-# 📌 Diary Index  
+---
+layout: default
+title: "Diary of an Emerging Data & Business Intelligence Analyst"
+permalink: /blog/diary/
+---
 
-# 📖 Diary of an Emerging Data & Business Intelligence Analyst  
+# 📖 Diary of an Emerging Data & Business Intelligence Analyst
 
-Welcome to my Data & BI Diary – documenting the highs, lows, and learning moments of my journey.  
+This section captures my journey, lessons, and insights as an emerging Data & BI Analyst.  
+From SQL and Power BI to Tableau and Business Intelligence storytelling – this is my growth space!  
 
-## 🔹 Latest Entries  
+## 📌 Entries
 
-📌 **[Breaking Points & Breakthroughs](./breaking_points_and_breakthroughs.md)** – A reflection on persistence in data analytics.  
+- [📌 Entry 1: Breaking Points & Breakthroughs](breaking_points_and_breakthroughs.md)  
+  *A personal reflection on overcoming challenges in data analytics.*
 
-(More to come soon! 🚀)  
+(More to come as I continue this journey! 🚀)
+
