@@ -6,4 +6,5 @@ From SQL and Power BI to Tableau and Business Intelligence storytelling – this
 ## 📌 Entries  
 📌 **[Entry 1: Breaking Points & Breakthroughs](breaking_points_and_breakthroughs.md)** – A personal reflection on overcoming challenges in data analytics.  
 
-(More entries to come as I continue this journey! 🚀)  
+_(More entries to come as I continue this journey! 🚀)_  
+
